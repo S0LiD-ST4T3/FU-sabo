@@ -1,0 +1,75 @@
+{
+  "itemName" : "blobelduukharlegs",
+  "price" : 10,
+  "inventoryIcon" : "icons.png:pants",
+  "maxStack" : 1,
+  "rarity" : "legendary",
+  "category" : "legwear",
+  "description" : "Screw wide doors! We don't need more landwhales! again, how'd you find this?",
+  "shortdescription" : "Big Fatties Sabotage item 2",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "blob_pantsM.png",
+  "femaleFrames" : "blob_pantsF.png",
+  "colorOptions" : [
+  // Default     New      Default     New      Default     New      Default     New
+// Crimson
+  { "ffca8a" : "CB3333", "e0975c" : "BD1111", "a85636" : "8F0000", "6f2919" : "570000" },
+// Red
+  { "ffca8a" : "E7886B", "e0975c" : "CF3C3C", "a85636" : "BE1515", "6f2919" : "A00909" },
+// Ametrine
+  { "ffca8a" : "FFB564", "e0975c" : "DF7938", "a85636" : "AC404D", "6f2919" : "792D52" },
+// Orange
+  { "ffca8a" : "FFA366", "e0975c" : "F1893F", "a85636" : "B35716", "6f2919" : "612B04" },
+// Ochre
+  { "ffca8a" : "E7BD11", "e0975c" : "C98702", "a85636" : "AB6712", "6f2919" : "834200" },
+// Faded Yellow
+  { "ffca8a" : "E6C375", "e0975c" : "C88B28", "a85636" : "8C571D", "6f2919" : "663B14" },
+// Yellow
+  { "ffca8a" : "FFF48F", "e0975c" : "FFD84D", "a85636" : "E2AF20", "6f2919" : "B97C01" },
+// Green
+  { "ffca8a" : "73C423", "e0975c" : "55911A", "a85636" : "386011", "6f2919" : "27440A" },
+// Dark Green
+  { "ffca8a" : "5F8E48", "e0975c" : "366837", "a85636" : "1F3D28", "6f2919" : "102014" },
+// Forest
+  { "ffca8a" : "58BC40", "e0975c" : "379C34", "a85636" : "1E7E1C", "6f2919" : "1C4E12" },
+// Pine
+  { "ffca8a" : "18BC65", "e0975c" : "118949", "a85636" : "0B552E", "6f2919" : "053A1E" },
+// Teal
+  { "ffca8a" : "009391", "e0975c" : "007884", "a85636" : "005967", "6f2919" : "004956" },
+// Azure
+  { "ffca8a" : "77BFAA", "e0975c" : "33A4A0", "a85636" : "135A83", "6f2919" : "051C5F" },
+// Frost
+  { "ffca8a" : "9BEAF1", "e0975c" : "4AD3DF", "a85636" : "1E99A4", "6f2919" : "10626A" },
+// Snow
+  { "ffca8a" : "F0FFFF", "e0975c" : "C8E6E6", "a85636" : "96BEBE", "6f2919" : "789696" },
+// Blue
+  { "ffca8a" : "B1DEFF", "e0975c" : "59B4F5", "a85636" : "1F86D0", "6f2919" : "094D7E" },
+// Ocean
+  { "ffca8a" : "71B4E3", "e0975c" : "5086C6", "a85636" : "2F59A9", "6f2919" : "183996" },
+// Indigo
+  { "ffca8a" : "BFB5F4", "e0975c" : "7964E0", "a85636" : "442DB7", "6f2919" : "1E0E70" },
+// Violet
+  { "ffca8a" : "6B61A9", "e0975c" : "302380", "a85636" : "100649", "6f2919" : "02000F" },
+// Purple
+  { "ffca8a" : "6D547B", "e0975c" : "543867", "a85636" : "350056", "6f2919" : "16000F" },
+// Plum
+  { "ffca8a" : "BC238B", "e0975c" : "A92071", "a85636" : "830E58", "6f2919" : "510647" },
+// Raspberry
+  { "ffca8a" : "C9008D", "e0975c" : "B20084", "a85636" : "960084", "6f2919" : "6E0084" },
+// Pink
+  { "ffca8a" : "E800C9", "e0975c" : "C600AC", "a85636" : "9E0089", "6f2919" : "7F006E" },
+// Chocolate
+  { "ffca8a" : "905F4C", "e0975c" : "763F2C", "a85636" : "442013", "6f2919" : "30170E" },
+// Brown
+  { "ffca8a" : "8D5F5F", "e0975c" : "754D4D", "a85636" : "5E3A3A", "6f2919" : "462828" },
+// Black
+  { "ffca8a" : "575757", "e0975c" : "3F3F3F", "a85636" : "2B2B2B", "6f2919" : "171717" },
+// Steel
+  { "ffca8a" : "9DA8AF", "e0975c" : "656E80", "a85636" : "3E3F50", "6f2919" : "282731" },
+// Grey
+  { "ffca8a" : "A6A6A6", "e0975c" : "757575", "a85636" : "585858", "6f2919" : "3C4246" },
+// White
+  { "ffca8a" : "F6F6F6", "e0975c" : "E0E0E0", "a85636" : "C6C6C6", "6f2919" : "A2A2A2" }
+]
+}
