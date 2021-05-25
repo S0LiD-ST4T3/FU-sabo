@@ -1,0 +1,3 @@
+just toss all this shit in a folder MINUS README AND ASSET PACKER then just... run asset packer...
+
+if you actually HAVE asset packer or just your own starbound copy, use that one instead. mine is the Linux variant of asset packer, so it requires linux.
